@@ -1,0 +1,5 @@
+- :octocat:
+- :paw_prints:
+- :computer:
+- :airplane:
+- :sushi:
